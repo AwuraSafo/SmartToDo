@@ -1,0 +1,26 @@
+Welcome to Smart To-Do List!
+
+Options:
+1. Add task
+2. View tasks
+3. Exit
+
+> 1
+Enter task name: Study Python
+Enter description: Complete GitHub portfolio project
+Enter priority (1-5): 5
+Task added successfully!
+
+> 1
+Enter task name: Grocery Shopping
+Enter description: Buy milk, eggs, and bread
+Enter priority (1-5): 3
+Task added successfully!
+
+> 2
+Tasks:
+1. Study Python - Priority: 5 - Complete GitHub portfolio project
+2. Grocery Shopping - Priority: 3 - Buy milk, eggs, and bread
+
+> 3
+Goodbye! Keep organizing your tasks.
